@@ -1,0 +1,9 @@
+# Annotated Bibliography for the *Oyster Representations Project*
+
+## Mitchell, Barbara. *The Waterman's Child*. Lolthrop, Lee, & Shepard Books, 1997.
+
+Mitchell's book is a fictional account of three generations that have grown up as waterman on the Chesapeake Bay. The story traces this history through the perspective of the women in the families. The history opens with a description of abundance and prosperity but as the generations pass, the history reflects the effects of pollution and overfishing on the way of life of waterman families. In the end the narrator, which is the latest in the line of waterman's wives acknowledges that waterman's lives have become more difficult but expresses hope that the "good times" will return.
+
+The story is interesting in that it reasonably accurately describes the degradation of the main fisheries of the Bay during the twentieth century but fails to examine or reflect on the causes of the changes that are affecting the families being described. The changes in the abundance and quality are presented as the whims of fate with the persistent hope that "good times" will return. By romanticizing over the complex but well documented causes of the changes in the system, the author creates a disconnect between the human actors and nature in the system.
+
+For my project this book illustrates the ways that representations can affect the interpretation of ecological systems. Miller seems to be representing the system using Battistoni's model of nature-3, where nature is seen primarily as a source of "free gifts" for human wealth generation. In this case the Bay "provides" initially and is the source of wealth and stability for the family. As these gifts become lessened, the model does not allow for an examination of the interrelation between the human and non-human activities.
