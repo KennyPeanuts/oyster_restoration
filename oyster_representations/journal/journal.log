@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  9 JAN 2024 09:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  9 JAN 2024 16:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,12 +23,14 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip49
-\bibsep=\skip50
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count193
+(/usr/local/texlive/2022/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count193
+\bibleftmargin=\skip49
+\bibindent=\skip50
+\bibparsep=\skip51
+\bibitemsep=\skip52
+\biblabelsep=\skip53
 )
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
@@ -52,6 +54,13 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
+\c@maskedRefs=\count195
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -64,116 +73,76 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 28.
 
 
-Package natbib Warning: Citation `costanza_value_1998' on page 1 undefined on i
-nput line 28.
-
-
-Package natbib Warning: Citation `costanza_value_1998' on page 1 undefined on i
-nput line 28.
-
-
-Package natbib Warning: Citation `grabowski_economic_2012' on page 1 undefined 
-on input line 28.
-
-
-Package natbib Warning: Citation `coen_oyster_date' on page 1 undefined on inpu
-t line 28.
-
-
-Package natbib Warning: Citation `grabowski_economic_2012' on page 1 undefined 
-on input line 28.
-
-
-Package natbib Warning: Citation `grabowski_economic_2012' on page 1 undefined 
-on input line 29.
-
-
-Package natbib Warning: Citation `bommarco_ecological_2013' on page 1 undefined
- on input line 30.
-
-
-Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
-ut line 32.
-
-
-Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
-ut line 32.
-
-
-Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
-ut line 32.
-
-
-Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
-ut line 32.
-
-
-Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
-ut line 32.
-
-
-Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
-ut line 32.
-
-
-Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
-ut line 32.
-
-
-Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
-ut line 32.
+LaTeX Warning: Citation `coen_oyster_date' undefined on input line 28.
 
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-Package natbib Warning: Citation `costanza_value_1998' on page 2 undefined on i
-nput line 34.
+LaTeX Warning: Citation `ellison_2005' undefined on input line 36.
 
 
-Package natbib Warning: Citation `ellison_2005' on page 2 undefined on input li
-ne 36.
+LaTeX Warning: Citation `ellison_2005' undefined on input line 36.
+
+[2] (./journal.bbl
+Overfull \hbox (5.4972pt too wide) in paragraph at lines 16--36
+\OT1/cmtt/m/n/10 https://linkinghub.elsevier.com/retrieve/pii/S016953471200273X
+
+ []
 
 
-Package natbib Warning: Citation `ellison_2005' on page 2 undefined on input li
-ne 36.
+Underfull \hbox (badness 10000) in paragraph at lines 113--130
+[]\OT1/cmr/m/n/10 Krzywoszynska, A.  (2020, May).  Non-hu-man La-bor and
+ []
 
-[2] (./journal.bbl)
 
-Package natbib Warning: There were undefined citations.
+Underfull \hbox (badness 10000) in paragraph at lines 113--130
+\OT1/cmr/m/n/10 the Mak-ing of Re-sources.  \OT1/cmr/m/it/10 En-vi-ron-men-tal 
+Hu-man-
+ []
 
-[3] (./journal.aux
 
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
+Underfull \hbox (badness 10000) in paragraph at lines 113--130
+\OT1/cmr/m/it/10 i-ties\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 12\OT1/cmr/m/n/10 (1)
+, 227--249.  Re-trieved 2023-11-30, from
+ []
 
-) )
+
+Overfull \hbox (336.24431pt too wide) in paragraph at lines 113--130
+\OT1/cmtt/m/n/10 https://read.dukeupress.edu/environmental-humanities/article/1
+2/1/227/165258/Nonhuman-Labor-and-the-Making-of-ResourcesMaking
+ []
+
+) [3] (./journal.aux)
+
+LaTeX Warning: There were undefined references.
+
+ )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 32 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 805 strings out of 478268
- 12700 string characters out of 5846347
- 313573 words of memory out of 5000000
- 19075 multiletter control sequences out of 15000+600000
- 473862 words of font info for 43 fonts, out of 8000000 for 9000
+ 915 strings out of 478268
+ 14364 string characters out of 5846347
+ 321814 words of memory out of 5000000
+ 19182 multiletter control sequences out of 15000+600000
+ 473413 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,39p,2068b,192s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 34i,8n,38p,2068b,268s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmbx8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.p
-fb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></u
-sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on journal.pdf (3 pages, 131798 bytes).
+/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.p
+fb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><
+/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on journal.pdf (3 pages, 134419 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
