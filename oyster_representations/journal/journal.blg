@@ -3,9 +3,11 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: journal.aux
 The style file: plain.bst
 Database file #1: Oyster_env_humanities.bib
+Warning--I didn't find a database entry for "coen_oyster_date"
+Warning--I didn't find a database entry for "ellison_2005"
 You've used 4 entries,
             2118 wiz_defined-function locations,
-            527 strings with 5072 characters,
+            529 strings with 5100 characters,
 and the built_in function-call counts, 1840 in all, are:
 = -- 172
 > -- 131
@@ -44,3 +46,4 @@ warning$ -- 0
 while$ -- 16
 width$ -- 5
 write$ -- 50
+(There were 2 warnings)

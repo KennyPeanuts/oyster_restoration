@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  8 JAN 2024 16:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  9 JAN 2024 09:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -62,31 +62,118 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 28.
- [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./jour
-nal.bbl) [2] (./journal.aux) ) 
+
+Package natbib Warning: Citation `costanza_value_1998' on page 1 undefined on i
+nput line 28.
+
+
+Package natbib Warning: Citation `costanza_value_1998' on page 1 undefined on i
+nput line 28.
+
+
+Package natbib Warning: Citation `grabowski_economic_2012' on page 1 undefined 
+on input line 28.
+
+
+Package natbib Warning: Citation `coen_oyster_date' on page 1 undefined on inpu
+t line 28.
+
+
+Package natbib Warning: Citation `grabowski_economic_2012' on page 1 undefined 
+on input line 28.
+
+
+Package natbib Warning: Citation `grabowski_economic_2012' on page 1 undefined 
+on input line 29.
+
+
+Package natbib Warning: Citation `bommarco_ecological_2013' on page 1 undefined
+ on input line 30.
+
+
+Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
+ut line 32.
+
+
+Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
+ut line 32.
+
+
+Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
+ut line 32.
+
+
+Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
+ut line 32.
+
+
+Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
+ut line 32.
+
+
+Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
+ut line 32.
+
+
+Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
+ut line 32.
+
+
+Package natbib Warning: Citation `krz_nonhuman_2020' on page 1 undefined on inp
+ut line 32.
+
+[1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package natbib Warning: Citation `costanza_value_1998' on page 2 undefined on i
+nput line 34.
+
+
+Package natbib Warning: Citation `ellison_2005' on page 2 undefined on input li
+ne 36.
+
+
+Package natbib Warning: Citation `ellison_2005' on page 2 undefined on input li
+ne 36.
+
+[2] (./journal.bbl)
+
+Package natbib Warning: There were undefined citations.
+
+[3] (./journal.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+) )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 32 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 801 strings out of 478268
- 12660 string characters out of 5846347
- 311573 words of memory out of 5000000
- 19073 multiletter control sequences out of 15000+600000
- 473245 words of font info for 41 fonts, out of 8000000 for 9000
+ 805 strings out of 478268
+ 12700 string characters out of 5846347
+ 313573 words of memory out of 5000000
+ 19075 multiletter control sequences out of 15000+600000
+ 473862 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,39p,2294b,191s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmti10.pfb>
-Output written on journal.pdf (2 pages, 108988 bytes).
+ 34i,8n,39p,2068b,192s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.p
+fb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></u
+sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on journal.pdf (3 pages, 131798 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
