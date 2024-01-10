@@ -15,45 +15,45 @@ Database file #1: Oyster_env_humanities.bib
 Warning--I didn't find a database entry for "coen_oyster_date"
 Warning--I didn't find a database entry for "ellison_2005"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 4 entries,
+You've used 6 entries,
             6951 wiz_defined-function locations,
-            1305 strings with 12008 characters,
-and the built_in function-call counts, 8725 in all, are:
-= -- 1023
-> -- 83
-< -- 406
-+ -- 473
-- -- 10
-* -- 600
-:= -- 1583
-add.period$ -- 14
-call.type$ -- 4
-change.case$ -- 72
+            1323 strings with 12505 characters,
+and the built_in function-call counts, 12157 in all, are:
+= -- 1432
+> -- 107
+< -- 563
++ -- 620
+- -- 14
+* -- 840
+:= -- 2219
+add.period$ -- 22
+call.type$ -- 6
+change.case$ -- 110
 chr.to.int$ -- 0
-cite$ -- 8
-duplicate$ -- 288
-empty$ -- 347
-format.name$ -- 162
-if$ -- 1590
+cite$ -- 12
+duplicate$ -- 369
+empty$ -- 503
+format.name$ -- 200
+if$ -- 2242
 int.to.chr$ -- 0
-int.to.str$ -- 12
+int.to.str$ -- 18
 missing$ -- 0
-newline$ -- 119
-num.names$ -- 32
-pop$ -- 121
+newline$ -- 174
+num.names$ -- 48
+pop$ -- 165
 preamble$ -- 1
-purify$ -- 20
+purify$ -- 32
 quote$ -- 0
-skip$ -- 530
+skip$ -- 767
 stack$ -- 0
-substring$ -- 517
-swap$ -- 168
-text.length$ -- 13
+substring$ -- 676
+swap$ -- 228
+text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 320
+type$ -- 480
 warning$ -- 0
-while$ -- 59
+while$ -- 75
 width$ -- 0
-write$ -- 149
+write$ -- 212
 (There were 2 warnings)
