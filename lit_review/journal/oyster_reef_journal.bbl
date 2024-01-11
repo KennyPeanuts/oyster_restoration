@@ -1,6 +1,44 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Ellison%
+\ \protect \BOthers {.}}{%
+Ellison%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+ellison_loss_2005}
+\APACinsertmetastar {%
+ellison_loss_2005}%
+\begin{APACrefauthors}%
+Ellison, A\BPBI M.%
+, Bank, M\BPBI S.%
+, Clinton, B\BPBI D.%
+, Colburn, E\BPBI A.%
+, Elliott, K.%
+, Ford, C\BPBI R.%
+\BDBL {}Webster, J\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{{\APACmonth{11}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Loss of foundation species: consequences for the
+  structure and dynamics of forested ecosystems} {Loss of foundation species:
+  consequences for the structure and dynamics of forested ecosystems}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Frontiers in Ecology and the
+  Environment}{3}{9}{479--486}.
+\newblock
+\begin{APACrefURL}
+  [{2023-09-29}]\url{http://doi.wiley.com/10.1890/1540-9295(2005)003[0479:LOFSCF]2.0.CO;2}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1890/1540-9295(2005)003[0479:LOFSCF]2.0.CO;2}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Fields%
 \ \BBA {} Silbiger%
 }{%
@@ -32,6 +70,40 @@ Fields, J.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.3354/meps13978} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lockwood%
+\ \BBA {} Mann%
+}{%
+Lockwood%
+\ \BBA {} Mann%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+lockwood_conservation_2019}
+\APACinsertmetastar {%
+lockwood_conservation_2019}%
+\begin{APACrefauthors}%
+Lockwood, R.%
+\BCBT {}\ \BBA {} Mann, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{{\APACmonth{12}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A conservation palaeobiological perspective on
+  {Chesapeake} {Bay} oysters} {A conservation palaeobiological perspective on
+  {Chesapeake} {Bay} oysters}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Philosophical Transactions of the Royal Society B:
+  Biological Sciences}{374}{1788}{20190209}.
+\newblock
+\begin{APACrefURL}
+  [{2022-04-04}]\url{https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0209}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1098/rstb.2019.0209} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -102,6 +174,44 @@ Newell, R\BPBI I.%
 \newblock
 \APACrefnote{Publisher: Chesapeake Research Consortium Gloucester Point,
   Virginia}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Searles%
+, Gipson%
+, Walters%
+\BCBL {}\ \BBA {} Cook%
+}{%
+Searles%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+searles_oyster_2022}
+\APACinsertmetastar {%
+searles_oyster_2022}%
+\begin{APACrefauthors}%
+Searles, A\BPBI R.%
+, Gipson, E\BPBI E.%
+, Walters, L\BPBI J.%
+\BCBL {}\ \BBA {} Cook, G\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{{\APACmonth{05}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Oyster reef restoration facilitates the recovery of
+  macroinvertebrate abundance, diversity, and composition in estuarine
+  communities} {Oyster reef restoration facilitates the recovery of
+  macroinvertebrate abundance, diversity, and composition in estuarine
+  communities}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Scientific Reports}{12}{1}{8163}.
+\newblock
+\begin{APACrefURL}
+  [{2023-09-13}]\url{https://www.nature.com/articles/s41598-022-11688-6}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1038/s41598-022-11688-6} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
