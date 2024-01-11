@@ -1,0 +1,107 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Fields%
+\ \BBA {} Silbiger%
+}{%
+Fields%
+\ \BBA {} Silbiger%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+fields_foundation_2022}
+\APACinsertmetastar {%
+fields_foundation_2022}%
+\begin{APACrefauthors}%
+Fields, J.%
+\BCBT {}\ \BBA {} Silbiger, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{{\APACmonth{02}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Foundation species loss alters multiple ecosystem
+  functions within temperate tidepool communities} {Foundation species loss
+  alters multiple ecosystem functions within temperate tidepool
+  communities}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Marine Ecology Progress Series}{683}{}{1--19}.
+\newblock
+\begin{APACrefURL}
+  [{2024-01-10}]\url{https://www.int-res.com/abstracts/meps/v683/p1-19/}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.3354/meps13978} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mercaldo-Allen%
+\ \protect \BOthers {.}}{%
+Mercaldo-Allen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+mercaldo-allen_oyster_2023}
+\APACinsertmetastar {%
+mercaldo-allen_oyster_2023}%
+\begin{APACrefauthors}%
+Mercaldo-Allen, R.%
+, Auster, P\BPBI J.%
+, Clark, P.%
+, Dixon, M\BPBI S.%
+, Estela, E.%
+, Liu, Y.%
+\BDBL {}Rose, J\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{{\APACmonth{04}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Oyster aquaculture cages provide fish habitat similar to
+  natural structure with minimal differences based on farm location} {Oyster
+  aquaculture cages provide fish habitat similar to natural structure with
+  minimal differences based on farm location}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Frontiers in Marine Science}{10}{}{1058709}.
+\newblock
+\begin{APACrefURL}
+  [{2023-11-20}]\url{https://www.frontiersin.org/articles/10.3389/fmars.2023.1058709/full}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.3389/fmars.2023.1058709} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Newell%
+}{%
+Newell%
+}{%
+{\protect \APACyear {1988}}%
+}]{%
+newell_ecological_1988}
+\APACinsertmetastar {%
+newell_ecological_1988}%
+\begin{APACrefauthors}%
+Newell, R\BPBI I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1988}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Ecological changes in {Chesapeake} {Bay}: are they the
+  result of overharvesting the {American} oyster, {Crassostrea} virginica}
+  {Ecological changes in {Chesapeake} {Bay}: are they the result of
+  overharvesting the {American} oyster, {Crassostrea} virginica}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Understanding the estuary: advances in Chesapeake Bay
+  research}{129}{}{536--546}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.oyster-restoration.org/wp-content/uploads/2012/06/Newell-1988-filtering.pdf}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{Publisher: Chesapeake Research Consortium Gloucester Point,
+  Virginia}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
