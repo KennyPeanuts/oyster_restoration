@@ -73,6 +73,38 @@ Fields, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Lenihan%
+}{%
+Lenihan%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+lenihan_physicalbiological_1999}
+\APACinsertmetastar {%
+lenihan_physicalbiological_1999}%
+\begin{APACrefauthors}%
+Lenihan, H\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{PHYSICAL}–{BIOLOGICAL} {COUPLING} {ON} {OYSTER}
+  {REEFS}: {HOW} {HABITAT} {STRUCTURE} {INFLUENCES} {INDIVIDUAL} {PERFORMANCE}}
+  {{PHYSICAL}–{BIOLOGICAL} {COUPLING} {ON} {OYSTER} {REEFS}: {HOW} {HABITAT}
+  {STRUCTURE} {INFLUENCES} {INDIVIDUAL} {PERFORMANCE}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Ecological Monographs}{69}{3}{251--275}.
+\newblock
+\begin{APACrefURL}
+  [{2023-09-29}]\url{http://doi.wiley.com/10.1890/0012-9615(1999)069[0251:PBCOOR]2.0.CO;2}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1890/0012-9615(1999)069[0251:PBCOOR]2.0.CO;2}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Lockwood%
 \ \BBA {} Mann%
 }{%
