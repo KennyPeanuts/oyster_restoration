@@ -12,47 +12,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: Oyster_Lit_Review.bib
-Warning--I didn't find a database entry for "angelini_interactions_2011"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 7 entries,
+You've used 10 entries,
             6951 wiz_defined-function locations,
-            1336 strings with 13598 characters,
-and the built_in function-call counts, 17496 in all, are:
-= -- 2066
-> -- 125
-< -- 995
-+ -- 1097
-- -- 14
-* -- 1302
-:= -- 3584
-add.period$ -- 26
-call.type$ -- 7
-change.case$ -- 131
+            1360 strings with 14499 characters,
+and the built_in function-call counts, 25284 in all, are:
+= -- 3031
+> -- 181
+< -- 1439
++ -- 1568
+- -- 20
+* -- 1850
+:= -- 5118
+add.period$ -- 40
+call.type$ -- 10
+change.case$ -- 187
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 450
-empty$ -- 599
-format.name$ -- 233
-if$ -- 3025
+cite$ -- 20
+duplicate$ -- 633
+empty$ -- 854
+format.name$ -- 320
+if$ -- 4417
 int.to.chr$ -- 0
-int.to.str$ -- 21
+int.to.str$ -- 30
 missing$ -- 0
-newline$ -- 209
-num.names$ -- 56
-pop$ -- 196
+newline$ -- 295
+num.names$ -- 80
+pop$ -- 313
 preamble$ -- 1
-purify$ -- 40
+purify$ -- 56
 quote$ -- 0
-skip$ -- 940
+skip$ -- 1376
 stack$ -- 0
-substring$ -- 1174
-swap$ -- 261
-text.length$ -- 26
+substring$ -- 1682
+swap$ -- 370
+text.length$ -- 41
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 560
+type$ -- 864
 warning$ -- 0
-while$ -- 88
+while$ -- 124
 width$ -- 0
-write$ -- 255
-(There was 1 warning)
+write$ -- 363

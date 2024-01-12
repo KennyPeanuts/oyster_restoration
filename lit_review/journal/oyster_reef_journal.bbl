@@ -1,6 +1,74 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Angelini%
+, Altieri%
+, Silliman%
+\BCBL {}\ \BBA {} Bertness%
+}{%
+Angelini%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+angelini_interactions_2011}
+\APACinsertmetastar {%
+angelini_interactions_2011}%
+\begin{APACrefauthors}%
+Angelini, C.%
+, Altieri, A\BPBI H.%
+, Silliman, B\BPBI R.%
+\BCBL {}\ \BBA {} Bertness, M\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{{\APACmonth{10}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Interactions among {Foundation} {Species} and {Their}
+  {Consequences} for {Community} {Organization}, {Biodiversity}, and
+  {Conservation}} {Interactions among {Foundation} {Species} and {Their}
+  {Consequences} for {Community} {Organization}, {Biodiversity}, and
+  {Conservation}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{BioScience}{61}{10}{782--789}.
+\newblock
+\begin{APACrefURL}
+  [{2024-01-11}]\url{https://academic.oup.com/bioscience/article-lookup/doi/10.1525/bio.2011.61.10.8}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1525/bio.2011.61.10.8} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dayton%
+}{%
+Dayton%
+}{%
+{\protect \APACyear {1972}}%
+}]{%
+dayton_toward_1972}
+\APACinsertmetastar {%
+dayton_toward_1972}%
+\begin{APACrefauthors}%
+Dayton, P\BPBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1972}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Toward an understanding of community resilience and the
+  potential effects of enrichments to the benthos at {McMurdo} {Sound},
+  {Antarctica}} {Toward an understanding of community resilience and the
+  potential effects of enrichments to the benthos at {McMurdo} {Sound},
+  {Antarctica}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the colloquium on conservation problems
+  in {Antarctica}} {Proceedings of the colloquium on conservation problems in
+  {Antarctica}}\ (\BPGS\ 81--96).
+\newblock
+\APACaddressPublisher{}{Allen Press Lawrence, Kansas, USA}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Ellison%
 \ \protect \BOthers {.}}{%
 Ellison%
@@ -244,6 +312,40 @@ Searles, A\BPBI R.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1038/s41598-022-11688-6} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Smith%
+, Lusk%
+\BCBL {}\ \BBA {} Castorani%
+}{%
+Smith%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+smith_restored_2022}
+\APACinsertmetastar {%
+smith_restored_2022}%
+\begin{APACrefauthors}%
+Smith, R\BPBI S.%
+, Lusk, B.%
+\BCBL {}\ \BBA {} Castorani, M\BPBI C\BPBI N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{{\APACmonth{07}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Restored oyster reefs match multiple functions of
+  natural reefs within a decade} {Restored oyster reefs match multiple
+  functions of natural reefs within a decade}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Conservation Letters}{15}{4}{e12883}.
+\newblock
+\begin{APACrefURL}
+  [{2023-09-13}]\url{https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12883}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1111/conl.12883} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
