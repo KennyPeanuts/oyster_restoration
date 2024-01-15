@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  12 JAN 2024 08:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  13 JAN 2024 07:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -76,7 +76,12 @@ same pa-per []Mercaldo-
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./oyster_reef_journal.bbl
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 36.
+
+[2] (./oyster_reef_journal.bbl
 Underfull \hbox (badness 2384) in paragraph at lines 17--40
 \OT1/cmr/m/n/10 se-quences for Com-mu-nity Or-ga-ni-za-tion, Bio-di-ver-sity, a
 nd Con-ser-
@@ -88,7 +93,7 @@ Overfull \hbox (94.74641pt too wide) in paragraph at lines 17--40
 /bio.2011.61.10.8
  []
 
-[2]
+
 Underfull \hbox (badness 2318) in paragraph at lines 82--108
 []\OT1/cmr/m/n/10 Ellison, A. M., Bank, M. S., Clin-ton, B. D., Col-burn, E. A.
 , El-
@@ -175,7 +180,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--208
 88), 20190209.  Re-trieved 2022-04-04, from
  []
 
-
+[3]
 Underfull \hbox (badness 2277) in paragraph at lines 220--245
 []\OT1/cmr/m/n/10 Mercaldo-Allen, R., Auster, P. J., Clark, P., Dixon, M. S., E
 s-tela,
@@ -246,7 +251,7 @@ Underfull \hbox (badness 1248) in paragraph at lines 293--316
 /10 , \OT1/cmr/m/it/10 12\OT1/cmr/m/n/10 (1), 8163.  Re-trieved 2023-09-13,
  []
 
-[3]
+
 Underfull \hbox (badness 1629) in paragraph at lines 330--350
 \OT1/cmr/m/it/10 Con-ser-va-tion Let-ters\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 15\
 OT1/cmr/m/n/10 (4), e12883.  Re-trieved 2023-09-13, from
@@ -254,24 +259,25 @@ OT1/cmr/m/n/10 (4), e12883.  Re-trieved 2023-09-13, from
 
 ) [4] (./oyster_reef_journal.aux) ) 
 Here is how much of TeX's memory you used:
- 927 strings out of 478268
- 14935 string characters out of 5846347
- 319838 words of memory out of 5000000
- 19194 multiletter control sequences out of 15000+600000
+ 929 strings out of 478268
+ 14963 string characters out of 5846347
+ 321838 words of memory out of 5000000
+ 19196 multiletter control sequences out of 15000+600000
  473413 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,6n,38p,1931b,224s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 34i,6n,38p,2827b,220s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmtt10.pfb>
-Output written on oyster_reef_journal.pdf (4 pages, 106759 bytes).
+lic/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmtt10.pfb>
+Output written on oyster_reef_journal.pdf (4 pages, 116306 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
