@@ -39,6 +39,73 @@ Angelini, C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Coen%
+\ \protect \BOthers {.}}{%
+Coen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+coen_ecosystem_2007}
+\APACinsertmetastar {%
+coen_ecosystem_2007}%
+\begin{APACrefauthors}%
+Coen, L.%
+, Brumbaugh, R.%
+, Bushek, D.%
+, Grizzle, R.%
+, Luckenbach, M.%
+, Posey, M.%
+\BDBL {}Tolley, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Ecosystem services related to oyster restoration}
+  {Ecosystem services related to oyster restoration}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Marine Ecology Progress Series}{341}{}{303--307}.
+\newblock
+\begin{APACrefURL}
+  [{2022-04-08}]\url{http://www.int-res.com/abstracts/meps/v341/p303-307/}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.3354/meps341303} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Costanza%
+\ \protect \BOthers {.}}{%
+Costanza%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1998}}%
+}]{%
+costanza_value_1998}
+\APACinsertmetastar {%
+costanza_value_1998}%
+\begin{APACrefauthors}%
+Costanza, R.%
+, de Groot, R.%
+, Farber, S.%
+, Grasso, M.%
+, Hannon, B.%
+, Limburg, K.%
+\BDBL {}{others}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The value of the world\# s ecosystem services and
+  natural capital} {The value of the world\# s ecosystem services and natural
+  capital}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Ecological economics}{25}{1}{3--15}.
+\newblock
+\APACrefnote{Publisher: Elsevier Science Publishing Company, Inc.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Dayton%
 }{%
 Dayton%
@@ -138,6 +205,42 @@ Fields, J.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.3354/meps13978} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Grabowski%
+\ \protect \BOthers {.}}{%
+Grabowski%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+grabowski_economic_2012}
+\APACinsertmetastar {%
+grabowski_economic_2012}%
+\begin{APACrefauthors}%
+Grabowski, J\BPBI H.%
+, Brumbaugh, R\BPBI D.%
+, Conrad, R\BPBI F.%
+, Keeler, A\BPBI G.%
+, Opaluch, J\BPBI J.%
+, Peterson, C\BPBI H.%
+\BDBL {}Smyth, A\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{{\APACmonth{10}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Economic {Valuation} of {Ecosystem} {Services}
+  {Provided} by {Oyster} {Reefs}} {Economic {Valuation} of {Ecosystem}
+  {Services} {Provided} by {Oyster} {Reefs}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{BioScience}{62}{10}{900--909}.
+\newblock
+\begin{APACrefURL}
+  [{2022-04-08}]\url{https://doi.org/10.1525/bio.2012.62.10.10}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1525/bio.2012.62.10.10} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
