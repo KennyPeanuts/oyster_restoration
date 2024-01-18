@@ -1,6 +1,42 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Barron%
+\ \BBA {} Hess%
+}{%
+Barron%
+\ \BBA {} Hess%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+gibson-graham_non-human_2020}
+\APACinsertmetastar {%
+gibson-graham_non-human_2020}%
+\begin{APACrefauthors}%
+Barron, E.%
+\BCBT {}\ \BBA {} Hess, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{02}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Non-human labour: the work of {Earth} {Others}}
+  {Non-human labour: the work of {Earth} {Others}}.{\BBCQ}
+\newblock
+\BIn{} J\BPBI K.~Gibson-Graham\ \BBA {} K.~Dombroski\ (\BEDS), \APACrefbtitle
+  {The {Handbook} of {Diverse} {Economies}.} {The {Handbook} of {Diverse}
+  {Economies}.}
+\newblock
+\APACaddressPublisher{}{Edward Elgar Publishing}.
+\newblock
+\begin{APACrefURL}
+  [{2023-12-15}]\url{https://china.elgaronline.com/view/edcoll/9781788119955/9781788119955.00026.xml}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.4337/9781788119962.00026} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Battistoni%
 }{%
 Battistoni%
@@ -188,6 +224,28 @@ Krzywoszynska, A.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1215/22011919-8142319} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Latour%
+}{%
+Latour%
+}{%
+{\protect \APACyear {1993}}%
+}]{%
+latour_we_1993}
+\APACinsertmetastar {%
+latour_we_1993}%
+\begin{APACrefauthors}%
+Latour, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1993}.
+\newblock
+\APACrefbtitle {We have never been modern} {We have never been modern}.
+\newblock
+\APACaddressPublisher{Cambridge, Mass}{Harvard University Press}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

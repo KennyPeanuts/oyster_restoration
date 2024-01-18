@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  10 JAN 2024 15:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  18 JAN 2024 07:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -102,81 +102,91 @@ LaTeX Warning: Citation `ellison_2005' undefined on input line 37.
 
 LaTeX Warning: Citation `ellison_2005' undefined on input line 37.
 
-[2] (./journal.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 14--32
+[2]
+
+LaTeX Warning: Citation `richardson_resource_2014' undefined on input line 49.
+
+[3] (./journal.bbl
+Overfull \hbox (94.74641pt too wide) in paragraph at lines 16--38
+\OT1/cmtt/m/n/10 https://china.elgaronline.com/view/edcoll/9781788119955/978178
+8119955.00026.xml
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--68
 []\OT1/cmr/m/n/10 Battistoni, A.  (2017, Febru-ary).  Bring-ing in the Work of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--32
+Underfull \hbox (badness 10000) in paragraph at lines 50--68
 \OT1/cmr/m/n/10 Na-ture: From Nat-u-ral Cap-i-tal to Hy-brid La-bor.  \OT1/cmr/
 m/it/10 Po-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--32
+Underfull \hbox (badness 10000) in paragraph at lines 50--68
 \OT1/cmr/m/it/10 lit-i-cal The-ory\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 45\OT1/cmr
 /m/n/10 (1), 5--31.  Re-trieved 2023-12-31, from
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--32
+Underfull \hbox (badness 10000) in paragraph at lines 50--68
 \OT1/cmtt/m/n/10 http://journals.sagepub.com/doi/10.1177/0090591716638389
  []
 
-[3]
-Overfull \hbox (5.4972pt too wide) in paragraph at lines 46--66
+
+Overfull \hbox (5.4972pt too wide) in paragraph at lines 82--102
 \OT1/cmtt/m/n/10 https://linkinghub.elsevier.com/retrieve/pii/S016953471200273X
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--130
+Underfull \hbox (badness 10000) in paragraph at lines 148--166
 []\OT1/cmr/m/n/10 Fair, H., & Mc-Mullen, M.  (2023, July).  To-ward a The-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--130
+Underfull \hbox (badness 10000) in paragraph at lines 148--166
 \OT1/cmr/m/n/10 ory of Non-hu-man Species-Being.  \OT1/cmr/m/it/10 En-vi-ron-me
 n-tal Hu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--130
+Underfull \hbox (badness 10000) in paragraph at lines 148--166
 \OT1/cmr/m/it/10 man-i-ties\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 15\OT1/cmr/m/n/10
  (2), 195--214.  Re-trieved 2023-11-30, from
  []
 
 
-Overfull \hbox (299.49463pt too wide) in paragraph at lines 112--130
+Overfull \hbox (299.49463pt too wide) in paragraph at lines 148--166
 \OT1/cmtt/m/n/10 https://read.dukeupress.edu/environmental-humanities/article/1
 5/2/195/380194/Toward-a-Theory-of-Nonhuman-Species-Being
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--192
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 211--228
 []\OT1/cmr/m/n/10 Krzywoszynska, A.  (2020, May).  Non-hu-man La-bor and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--192
+Underfull \hbox (badness 10000) in paragraph at lines 211--228
 \OT1/cmr/m/n/10 the Mak-ing of Re-sources.  \OT1/cmr/m/it/10 En-vi-ron-men-tal 
 Hu-man-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--192
+Underfull \hbox (badness 10000) in paragraph at lines 211--228
 \OT1/cmr/m/it/10 i-ties\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 12\OT1/cmr/m/n/10 (1)
 , 227--249.  Re-trieved 2023-11-30, from
  []
 
 
-Overfull \hbox (336.24431pt too wide) in paragraph at lines 175--192
+Overfull \hbox (336.24431pt too wide) in paragraph at lines 211--228
 \OT1/cmtt/m/n/10 https://read.dukeupress.edu/environmental-humanities/article/1
 2/1/227/165258/Nonhuman-Labor-and-the-Making-of-ResourcesMaking
  []
 
-) [4] (./journal.aux)
+) [5] (./journal.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -186,13 +196,13 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 33 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 1146 strings out of 478268
- 18104 string characters out of 5846347
+ 1154 strings out of 478268
+ 18300 string characters out of 5846347
  326814 words of memory out of 5000000
- 19408 multiletter control sequences out of 15000+600000
+ 19416 multiletter control sequences out of 15000+600000
  473713 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,38p,2083b,326s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 34i,8n,38p,2083b,327s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm
@@ -203,10 +213,10 @@ fb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></
 usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on journal.pdf (4 pages, 151701 bytes).
+Output written on journal.pdf (5 pages, 155653 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

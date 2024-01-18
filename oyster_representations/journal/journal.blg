@@ -14,46 +14,47 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: Oyster_env_humanities.bib
 Warning--I didn't find a database entry for "coen_oyster_date"
 Warning--I didn't find a database entry for "ellison_2005"
+Warning--I didn't find a database entry for "richardson_resource_2014"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 6 entries,
+You've used 8 entries,
             6951 wiz_defined-function locations,
-            1323 strings with 12505 characters,
-and the built_in function-call counts, 12157 in all, are:
-= -- 1432
-> -- 107
-< -- 563
-+ -- 620
-- -- 14
-* -- 840
-:= -- 2219
-add.period$ -- 22
-call.type$ -- 6
-change.case$ -- 110
+            1339 strings with 12954 characters,
+and the built_in function-call counts, 15659 in all, are:
+= -- 1898
+> -- 133
+< -- 678
++ -- 741
+- -- 18
+* -- 1031
+:= -- 2750
+add.period$ -- 32
+call.type$ -- 8
+change.case$ -- 147
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 369
-empty$ -- 503
-format.name$ -- 200
-if$ -- 2242
+cite$ -- 16
+duplicate$ -- 471
+empty$ -- 673
+format.name$ -- 244
+if$ -- 2968
 int.to.chr$ -- 0
-int.to.str$ -- 18
+int.to.str$ -- 24
 missing$ -- 0
-newline$ -- 174
-num.names$ -- 48
-pop$ -- 165
+newline$ -- 227
+num.names$ -- 66
+pop$ -- 237
 preamble$ -- 1
-purify$ -- 32
+purify$ -- 42
 quote$ -- 0
-skip$ -- 767
+skip$ -- 1055
 stack$ -- 0
-substring$ -- 676
-swap$ -- 228
-text.length$ -- 21
+substring$ -- 817
+swap$ -- 284
+text.length$ -- 27
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 480
+type$ -- 704
 warning$ -- 0
-while$ -- 75
+while$ -- 93
 width$ -- 0
-write$ -- 212
-(There were 2 warnings)
+write$ -- 273
+(There were 3 warnings)
