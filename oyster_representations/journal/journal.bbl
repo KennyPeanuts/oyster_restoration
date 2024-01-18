@@ -248,4 +248,35 @@ Latour, B.%
 \APACaddressPublisher{Cambridge, Mass}{Harvard University Press}.
 \PrintBackRefs{\CurrentBib}
 
+\bibitem [\protect \citeauthoryear {%
+Reid%
+\ \protect \BOthers {.}}{%
+Reid%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+reid_millennium_2005}
+\APACinsertmetastar {%
+reid_millennium_2005}%
+\begin{APACrefauthors}%
+Reid, W.%
+, Mooney, H.%
+, Cropper, A.%
+, Capistrano, D.%
+, Carpenter, S.%
+\BCBL {}\ \BBA {} Chopra, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {Millennium {Ecosystem} {Assessment}. {Ecosystems} and human
+  well-being: synthesis} {Millennium {Ecosystem} {Assessment}. {Ecosystems} and
+  human well-being: synthesis}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.millenniumassessment.org/documents/document.356.aspx.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}

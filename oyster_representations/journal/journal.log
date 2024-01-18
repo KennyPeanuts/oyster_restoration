@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  18 JAN 2024 07:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  18 JAN 2024 10:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -102,11 +102,11 @@ LaTeX Warning: Citation `ellison_2005' undefined on input line 37.
 
 LaTeX Warning: Citation `ellison_2005' undefined on input line 37.
 
-[2]
+[2] [3]
 
-LaTeX Warning: Citation `richardson_resource_2014' undefined on input line 49.
+LaTeX Warning: Citation `richardson_resource_2014' undefined on input line 48.
 
-[3] (./journal.bbl
+(./journal.bbl
 Overfull \hbox (94.74641pt too wide) in paragraph at lines 16--38
 \OT1/cmtt/m/n/10 https://china.elgaronline.com/view/edcoll/9781788119955/978178
 8119955.00026.xml
@@ -140,7 +140,7 @@ Overfull \hbox (5.4972pt too wide) in paragraph at lines 82--102
 
  []
 
-
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 148--166
 []\OT1/cmr/m/n/10 Fair, H., & Mc-Mullen, M.  (2023, July).  To-ward a The-
  []
@@ -163,7 +163,7 @@ Overfull \hbox (299.49463pt too wide) in paragraph at lines 148--166
 5/2/195/380194/Toward-a-Theory-of-Nonhuman-Species-Being
  []
 
-[4]
+
 Underfull \hbox (badness 10000) in paragraph at lines 211--228
 []\OT1/cmr/m/n/10 Krzywoszynska, A.  (2020, May).  Non-hu-man La-bor and
  []
@@ -186,6 +186,35 @@ Overfull \hbox (336.24431pt too wide) in paragraph at lines 211--228
 2/1/227/165258/Nonhuman-Labor-and-the-Making-of-ResourcesMaking
  []
 
+
+Underfull \hbox (badness 2269) in paragraph at lines 262--281
+[]\OT1/cmr/m/n/10 Reid, W., Mooney, H., Crop-per, A., Capis-trano, D., Car-pen-
+ter, S.,
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 262--281
+\OT1/cmr/m/n/10 & Chopra, K.  (2005).  \OT1/cmr/m/it/10 Mil-len-nium Ecosys-tem
+ As-sess-ment.
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 262--281
+\OT1/cmr/m/it/10 Ecosys-tems and hu-man well-being: syn-the-sis\OT1/cmr/m/n/10 
+.  Re-trieved from
+ []
+
+
+Overfull \hbox (36.99692pt too wide) in paragraph at lines 262--281
+\OT1/cmtt/m/n/10 https://www.millenniumassessment.org/documents/document.356.as
+px.pdf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--281
+
+ []
+
 ) [5] (./journal.aux)
 
 LaTeX Warning: There were undefined references.
@@ -196,13 +225,13 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 33 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 1154 strings out of 478268
- 18300 string characters out of 5846347
- 326814 words of memory out of 5000000
- 19416 multiletter control sequences out of 15000+600000
+ 1157 strings out of 478268
+ 18369 string characters out of 5846347
+ 327814 words of memory out of 5000000
+ 19419 multiletter control sequences out of 15000+600000
  473713 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,38p,2083b,327s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 34i,8n,38p,2562b,327s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm
@@ -213,7 +242,7 @@ fb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></
 usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on journal.pdf (5 pages, 155653 bytes).
+Output written on journal.pdf (5 pages, 157505 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  42 compressed objects within 1 object stream

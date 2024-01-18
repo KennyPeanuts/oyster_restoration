@@ -16,45 +16,45 @@ Warning--I didn't find a database entry for "coen_oyster_date"
 Warning--I didn't find a database entry for "ellison_2005"
 Warning--I didn't find a database entry for "richardson_resource_2014"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 8 entries,
+You've used 9 entries,
             6951 wiz_defined-function locations,
-            1339 strings with 12954 characters,
-and the built_in function-call counts, 15659 in all, are:
-= -- 1898
-> -- 133
-< -- 678
-+ -- 741
-- -- 18
-* -- 1031
-:= -- 2750
-add.period$ -- 32
-call.type$ -- 8
-change.case$ -- 147
+            1344 strings with 13233 characters,
+and the built_in function-call counts, 18007 in all, are:
+= -- 2164
+> -- 160
+< -- 800
++ -- 873
+- -- 20
+* -- 1188
+:= -- 3196
+add.period$ -- 36
+call.type$ -- 9
+change.case$ -- 166
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 471
-empty$ -- 673
-format.name$ -- 244
-if$ -- 2968
+cite$ -- 18
+duplicate$ -- 547
+empty$ -- 763
+format.name$ -- 298
+if$ -- 3387
 int.to.chr$ -- 0
-int.to.str$ -- 24
+int.to.str$ -- 27
 missing$ -- 0
-newline$ -- 227
-num.names$ -- 66
-pop$ -- 237
+newline$ -- 254
+num.names$ -- 74
+pop$ -- 291
 preamble$ -- 1
-purify$ -- 42
+purify$ -- 48
 quote$ -- 0
-skip$ -- 1055
+skip$ -- 1173
 stack$ -- 0
-substring$ -- 817
-swap$ -- 284
-text.length$ -- 27
+substring$ -- 956
+swap$ -- 320
+text.length$ -- 31
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 704
+type$ -- 784
 warning$ -- 0
-while$ -- 93
+while$ -- 112
 width$ -- 0
-write$ -- 273
+write$ -- 310
 (There were 3 warnings)
