@@ -198,6 +198,39 @@ Grabowski, J\BPBI H.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Iovino%
+\ \BBA {} Oppermann%
+}{%
+Iovino%
+\ \BBA {} Oppermann%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+iovino_theorizing_2012}
+\APACinsertmetastar {%
+iovino_theorizing_2012}%
+\begin{APACrefauthors}%
+Iovino, S.%
+\BCBT {}\ \BBA {} Oppermann, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{{\APACmonth{12}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Theorizing {Material} {Ecocriticism}: {A} {Diptych}}
+  {Theorizing {Material} {Ecocriticism}: {A} {Diptych}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Interdisciplinary Studies in Literature and
+  Environment}{19}{3}{448--475}.
+\newblock
+\begin{APACrefURL}
+  [{2024-01-18}]\url{https://academic.oup.com/isle/article-lookup/doi/10.1093/isle/iss087}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1093/isle/iss087} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Krzywoszynska%
 }{%
 Krzywoszynska%
@@ -277,6 +310,31 @@ Reid, W.%
 \begin{APACrefURL}
   \url{https://www.millenniumassessment.org/documents/document.356.aspx.pdf}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tsing%
+}{%
+Tsing%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+tsing_mushroom_2021}
+\APACinsertmetastar {%
+tsing_mushroom_2021}%
+\begin{APACrefauthors}%
+Tsing, A\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2021}.
+\newblock
+\APACrefbtitle {The mushroom at the end of the world: on the possibility of
+  life in capitalist ruins} {The mushroom at the end of the world: on the
+  possibility of life in capitalist ruins}\ (\PrintOrdinal{New paperback
+  printing}\ \BEd).
+\newblock
+\APACaddressPublisher{Princeton Oxford}{Princeton University Press}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
