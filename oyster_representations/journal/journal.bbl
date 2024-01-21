@@ -1,6 +1,44 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Angelini%
+, Altieri%
+, Silliman%
+\BCBL {}\ \BBA {} Bertness%
+}{%
+Angelini%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+angelini_interactions_2011}
+\APACinsertmetastar {%
+angelini_interactions_2011}%
+\begin{APACrefauthors}%
+Angelini, C.%
+, Altieri, A\BPBI H.%
+, Silliman, B\BPBI R.%
+\BCBL {}\ \BBA {} Bertness, M\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{{\APACmonth{10}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Interactions among {Foundation} {Species} and {Their}
+  {Consequences} for {Community} {Organization}, {Biodiversity}, and
+  {Conservation}} {Interactions among {Foundation} {Species} and {Their}
+  {Consequences} for {Community} {Organization}, {Biodiversity}, and
+  {Conservation}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{BioScience}{61}{10}{782--789}.
+\newblock
+\begin{APACrefURL}
+  [{2024-01-11}]\url{https://academic.oup.com/bioscience/article-lookup/doi/10.1525/bio.2011.61.10.8}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1525/bio.2011.61.10.8} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Barron%
 \ \BBA {} Hess%
 }{%
@@ -310,6 +348,36 @@ Reid, W.%
 \begin{APACrefURL}
   \url{https://www.millenniumassessment.org/documents/document.356.aspx.pdf}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Richardson%
+\ \BBA {} Weszkalnys%
+}{%
+Richardson%
+\ \BBA {} Weszkalnys%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+richardson_introduction_2014}
+\APACinsertmetastar {%
+richardson_introduction_2014}%
+\begin{APACrefauthors}%
+Richardson, T.%
+\BCBT {}\ \BBA {} Weszkalnys, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Introduction: resource materialities} {Introduction:
+  resource materialities}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Anthropological Quarterly}{87}{1}{5--30}.
+\newblock
+\begin{APACrefURL} \url{https://www.jstor.org/stable/43652719} \end{APACrefURL}
+\newblock
+\APACrefnote{Publisher: JSTOR}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
