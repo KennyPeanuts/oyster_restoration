@@ -137,6 +137,36 @@ Dayton, P\BPBI K.%
 
 \bibitem [\protect \citeauthoryear {%
 Ellison%
+}{%
+Ellison%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+ellison_foundation_2019}
+\APACinsertmetastar {%
+ellison_foundation_2019}%
+\begin{APACrefauthors}%
+Ellison, A\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{{\APACmonth{03}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Foundation {Species}, {Non}-trophic {Interactions}, and
+  the {Value} of {Being} {Common}} {Foundation {Species}, {Non}-trophic
+  {Interactions}, and the {Value} of {Being} {Common}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{iScience}{13}{}{254--268}.
+\newblock
+\begin{APACrefURL}
+  [{2024-01-13}]\url{https://linkinghub.elsevier.com/retrieve/pii/S2589004219300549}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.isci.2019.02.020} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ellison%
 \ \protect \BOthers {.}}{%
 Ellison%
 \ \protect \BOthers {.}}{%
