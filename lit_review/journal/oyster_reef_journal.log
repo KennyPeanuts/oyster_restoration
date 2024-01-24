@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  23 JAN 2024 14:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  24 JAN 2024 08:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -80,12 +80,12 @@ same pa-per []Mercaldo-
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 40.
+(Font)              <7> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 40.
-
-[2] [3] (./oyster_reef_journal.bbl
+(Font)              <5> on input line 42.
+ [3] (./oyster_reef_journal.bbl
 Underfull \hbox (badness 2384) in paragraph at lines 17--40
 \OT1/cmr/m/n/10 se-quences for Com-mu-nity Or-ga-ni-za-tion, Bio-di-ver-sity, a
 nd Con-ser-
@@ -97,7 +97,7 @@ Overfull \hbox (94.74641pt too wide) in paragraph at lines 17--40
 /bio.2011.61.10.8
  []
 
-
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 149--167
 []\OT1/cmr/m/n/10 Ellison, A. M.  (2019, March).  Foun-da-tion Species, Non-
  []
@@ -154,7 +154,7 @@ Overfull \hbox (36.99692pt too wide) in paragraph at lines 179--205
 0.CO;2
  []
 
-[4]
+
 Underfull \hbox (badness 1231) in paragraph at lines 251--275
 []\OT1/cmr/m/n/10 Grabowski, J. H., Brum-baugh, R. D., Con-rad, R. F., Keeler, 
 A. G.,
@@ -271,7 +271,7 @@ Overfull \hbox (36.99692pt too wide) in paragraph at lines 353--378
 9/full
  []
 
-
+[5]
 Underfull \hbox (badness 6204) in paragraph at lines 390--411
 []\OT1/cmr/m/n/10 Newell, R. I.  (1988).  Eco-log-i-cal changes in Chesa-peake 
 Bay:
@@ -307,7 +307,7 @@ Underfull \hbox (badness 1248) in paragraph at lines 426--449
 /10 , \OT1/cmr/m/it/10 12\OT1/cmr/m/n/10 (1), 8163.  Re-trieved 2023-09-13,
  []
 
-[5]
+
 Underfull \hbox (badness 1629) in paragraph at lines 463--483
 \OT1/cmr/m/it/10 Con-ser-va-tion Let-ters\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 15\
 OT1/cmr/m/n/10 (4), e12883.  Re-trieved 2023-09-13, from
@@ -321,11 +321,11 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  947 strings out of 478268
  15360 string characters out of 5846347
- 320838 words of memory out of 5000000
+ 321838 words of memory out of 5000000
  19213 multiletter control sequences out of 15000+600000
  474055 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,6n,38p,1957b,222s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 34i,6n,38p,1835b,222s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
@@ -335,7 +335,7 @@ local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loc
 al/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loca
 l/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local
 /texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on oyster_reef_journal.pdf (6 pages, 125101 bytes).
+Output written on oyster_reef_journal.pdf (6 pages, 125773 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
