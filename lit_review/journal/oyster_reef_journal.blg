@@ -14,49 +14,48 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: Oyster_Lit_Review.bib
 Warning--I didn't find a database entry for "vozzo_cooccuring_2019"
 Warning--I didn't find a database entry for "vozzo_co-occuring_2019"
-Warning--I didn't find a database entry for "lenihan_physicalbioligical_1999"
-Warning--I didn't find a database entry for "ellison_foundation_1999"
 Warning--I didn't find a database entry for "wong_evaluating_2011"
+Warning--I didn't find a database entry for "CORAL_EXAMPLE"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 15 entries,
+You've used 16 entries,
             6951 wiz_defined-function locations,
-            1406 strings with 16120 characters,
-and the built_in function-call counts, 36847 in all, are:
-= -- 4375
-> -- 286
-< -- 2026
-+ -- 2221
-- -- 32
-* -- 2670
-:= -- 7254
-add.period$ -- 57
-call.type$ -- 15
-change.case$ -- 278
+            1415 strings with 16366 characters,
+and the built_in function-call counts, 39108 in all, are:
+= -- 4644
+> -- 305
+< -- 2147
++ -- 2348
+- -- 34
+* -- 2834
+:= -- 7685
+add.period$ -- 61
+call.type$ -- 16
+change.case$ -- 297
 chr.to.int$ -- 0
-cite$ -- 30
-duplicate$ -- 1019
-empty$ -- 1301
-format.name$ -- 532
-if$ -- 6499
+cite$ -- 32
+duplicate$ -- 1082
+empty$ -- 1385
+format.name$ -- 564
+if$ -- 6909
 int.to.chr$ -- 0
-int.to.str$ -- 45
+int.to.str$ -- 48
 missing$ -- 0
-newline$ -- 444
-num.names$ -- 120
-pop$ -- 465
+newline$ -- 474
+num.names$ -- 128
+pop$ -- 492
 preamble$ -- 1
-purify$ -- 82
+purify$ -- 88
 quote$ -- 0
-skip$ -- 2053
+skip$ -- 2181
 stack$ -- 0
-substring$ -- 2389
-swap$ -- 581
-text.length$ -- 58
+substring$ -- 2526
+swap$ -- 618
+text.length$ -- 62
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1264
+type$ -- 1344
 warning$ -- 0
-while$ -- 199
+while$ -- 213
 width$ -- 0
-write$ -- 550
-(There were 5 warnings)
+write$ -- 589
+(There were 4 warnings)
