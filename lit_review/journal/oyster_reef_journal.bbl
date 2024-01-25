@@ -481,4 +481,38 @@ Smith, R\BPBI S.%
 \begin{APACrefDOI} \doi{10.1111/conl.12883} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
+\bibitem [\protect \citeauthoryear {%
+Vozzo%
+\ \BBA {} Bishop%
+}{%
+Vozzo%
+\ \BBA {} Bishop%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+vozzo_co-occurring_2019}
+\APACinsertmetastar {%
+vozzo_co-occurring_2019}%
+\begin{APACrefauthors}%
+Vozzo, M.%
+\BCBT {}\ \BBA {} Bishop, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{{\APACmonth{01}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Co-occurring secondary foundation species have distinct
+  effects on the recruitment and survival of associated organisms}
+  {Co-occurring secondary foundation species have distinct effects on the
+  recruitment and survival of associated organisms}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Marine Ecology Progress Series}{608}{}{61--72}.
+\newblock
+\begin{APACrefURL}
+  [{2024-01-10}]\url{https://www.int-res.com/abstracts/meps/v608/p61-72/}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.3354/meps12823} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}
