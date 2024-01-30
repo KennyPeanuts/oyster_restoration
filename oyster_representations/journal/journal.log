@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  21 JAN 2024 07:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  30 JAN 2024 13:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -91,23 +91,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 30.
 
 
-LaTeX Warning: Citation `coen_oyster_date' undefined on input line 30.
+LaTeX Warning: Citation `coen_oyster_date' undefined on input line 32.
 
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Warning: Citation `ellison_2005' undefined on input line 37.
+LaTeX Warning: Citation `ellison_2005' undefined on input line 39.
 
 
-LaTeX Warning: Citation `ellison_2005' undefined on input line 37.
+LaTeX Warning: Citation `ellison_2005' undefined on input line 39.
 
 [2] [3] [4]
 
-LaTeX Warning: Citation `barad_paper' undefined on input line 56.
+LaTeX Warning: Citation `barad_paper' undefined on input line 58.
 
 
-LaTeX Warning: Citation `smyth_assessing_2013' undefined on input line 58.
+LaTeX Warning: Citation `smyth_assessing_2013' undefined on input line 60.
 
 [5] [6] [7] (./journal.bbl
 Underfull \hbox (badness 2384) in paragraph at lines 17--40
@@ -255,7 +255,7 @@ LaTeX Warning: There were undefined references.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 33 ({)
+### simple group (level 1) entered at line 35 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  1173 strings out of 478268
@@ -276,7 +276,7 @@ fb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr
 /local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on journal.pdf (9 pages, 182303 bytes).
+Output written on journal.pdf (9 pages, 182353 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
