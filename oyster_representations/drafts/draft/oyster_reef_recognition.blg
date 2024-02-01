@@ -14,45 +14,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: ../Oyster_env_humanities.bib
 Warning--I didn't find a database entry for "lawton_laws_1999"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 1 entry,
+You've used 5 entries,
             6951 wiz_defined-function locations,
-            1279 strings with 10953 characters,
-and the built_in function-call counts, 1796 in all, are:
-= -- 206
-> -- 10
-< -- 90
-+ -- 83
-- -- 2
-* -- 126
-:= -- 376
-add.period$ -- 4
-call.type$ -- 1
-change.case$ -- 19
+            1310 strings with 12314 characters,
+and the built_in function-call counts, 11344 in all, are:
+= -- 1361
+> -- 107
+< -- 514
++ -- 599
+- -- 12
+* -- 744
+:= -- 2011
+add.period$ -- 20
+call.type$ -- 5
+change.case$ -- 92
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 36
-empty$ -- 77
-format.name$ -- 14
-if$ -- 323
+cite$ -- 10
+duplicate$ -- 375
+empty$ -- 453
+format.name$ -- 214
+if$ -- 2093
 int.to.chr$ -- 0
-int.to.str$ -- 3
+int.to.str$ -- 15
 missing$ -- 0
-newline$ -- 29
-num.names$ -- 8
-pop$ -- 21
+newline$ -- 147
+num.names$ -- 42
+pop$ -- 176
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 26
 quote$ -- 0
-skip$ -- 121
+skip$ -- 723
 stack$ -- 0
-substring$ -- 88
-swap$ -- 28
-text.length$ -- 4
+substring$ -- 657
+swap$ -- 204
+text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 80
+type$ -- 464
 warning$ -- 0
-while$ -- 7
+while$ -- 77
 width$ -- 0
-write$ -- 30
+write$ -- 184
 (There was 1 warning)

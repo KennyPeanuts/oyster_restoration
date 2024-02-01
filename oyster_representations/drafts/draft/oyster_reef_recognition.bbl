@@ -1,6 +1,42 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Barron%
+\ \BBA {} Hess%
+}{%
+Barron%
+\ \BBA {} Hess%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+gibson-graham_non-human_2020}
+\APACinsertmetastar {%
+gibson-graham_non-human_2020}%
+\begin{APACrefauthors}%
+Barron, E.%
+\BCBT {}\ \BBA {} Hess, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{02}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Non-human labour: the work of {Earth} {Others}}
+  {Non-human labour: the work of {Earth} {Others}}.{\BBCQ}
+\newblock
+\BIn{} J\BPBI K.~Gibson-Graham\ \BBA {} K.~Dombroski\ (\BEDS), \APACrefbtitle
+  {The {Handbook} of {Diverse} {Economies}.} {The {Handbook} of {Diverse}
+  {Economies}.}
+\newblock
+\APACaddressPublisher{}{Edward Elgar Publishing}.
+\newblock
+\begin{APACrefURL}
+  [{2023-12-15}]\url{https://china.elgaronline.com/view/edcoll/9781788119955/9781788119955.00026.xml}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.4337/9781788119962.00026} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Battistoni%
 }{%
 Battistoni%
@@ -28,6 +64,102 @@ Battistoni, A.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1177/0090591716638389} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Costanza%
+\ \protect \BOthers {.}}{%
+Costanza%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1998}}%
+}]{%
+costanza_value_1998}
+\APACinsertmetastar {%
+costanza_value_1998}%
+\begin{APACrefauthors}%
+Costanza, R.%
+, de Groot, R.%
+, Farber, S.%
+, Grasso, M.%
+, Hannon, B.%
+, Limburg, K.%
+\BDBL {}{others}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The value of the world\# s ecosystem services and
+  natural capital} {The value of the world\# s ecosystem services and natural
+  capital}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Ecological economics}{25}{1}{3--15}.
+\newblock
+\APACrefnote{Publisher: Elsevier Science Publishing Company, Inc.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Grabowski%
+\ \protect \BOthers {.}}{%
+Grabowski%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+grabowski_economic_2012}
+\APACinsertmetastar {%
+grabowski_economic_2012}%
+\begin{APACrefauthors}%
+Grabowski, J\BPBI H.%
+, Brumbaugh, R\BPBI D.%
+, Conrad, R\BPBI F.%
+, Keeler, A\BPBI G.%
+, Opaluch, J\BPBI J.%
+, Peterson, C\BPBI H.%
+\BDBL {}Smyth, A\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Economic valuation of ecosystem services provided by
+  oyster reefs} {Economic valuation of ecosystem services provided by oyster
+  reefs}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Bioscience}{62}{10}{900--909}.
+\newblock
+\APACrefnote{Publisher: American Institute of Biological Sciences Circulation,
+  AIBS, 1313 Dolley …}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Reid%
+\ \protect \BOthers {.}}{%
+Reid%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+reid_millennium_2005}
+\APACinsertmetastar {%
+reid_millennium_2005}%
+\begin{APACrefauthors}%
+Reid, W.%
+, Mooney, H.%
+, Cropper, A.%
+, Capistrano, D.%
+, Carpenter, S.%
+\BCBL {}\ \BBA {} Chopra, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {Millennium {Ecosystem} {Assessment}. {Ecosystems} and human
+  well-being: synthesis} {Millennium {Ecosystem} {Assessment}. {Ecosystems} and
+  human well-being: synthesis}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.millenniumassessment.org/documents/document.356.aspx.pdf}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
