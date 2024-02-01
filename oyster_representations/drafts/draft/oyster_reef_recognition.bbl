@@ -1,0 +1,33 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Battistoni%
+}{%
+Battistoni%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+battistoni_bringing_2017}
+\APACinsertmetastar {%
+battistoni_bringing_2017}%
+\begin{APACrefauthors}%
+Battistoni, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{{\APACmonth{02}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bringing in the {Work} of {Nature}: {From} {Natural}
+  {Capital} to {Hybrid} {Labor}} {Bringing in the {Work} of {Nature}: {From}
+  {Natural} {Capital} to {Hybrid} {Labor}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Political Theory}{45}{1}{5--31}.
+\newblock
+\begin{APACrefURL}
+  [{2023-12-31}]\url{http://journals.sagepub.com/doi/10.1177/0090591716638389}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1177/0090591716638389} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
