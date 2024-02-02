@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  1 FEB 2024 13:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  2 FEB 2024 15:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -109,59 +109,71 @@ Underfull \hbox (badness 1796) in paragraph at lines 39--39
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./oyster_reef_recognition.bbl
-Overfull \hbox (94.74641pt too wide) in paragraph at lines 16--38
+Underfull \hbox (badness 2384) in paragraph at lines 17--40
+\OT1/cmr/m/n/10 se-quences for Com-mu-nity Or-ga-ni-za-tion, Bio-di-ver-sity, a
+nd Con-ser-
+ []
+
+
+Overfull \hbox (94.74641pt too wide) in paragraph at lines 17--40
+\OT1/cmtt/m/n/10 https://academic.oup.com/bioscience/article-lookup/doi/10.1525
+/bio.2011.61.10.8
+ []
+
+
+Overfull \hbox (94.74641pt too wide) in paragraph at lines 54--76
 \OT1/cmtt/m/n/10 https://china.elgaronline.com/view/edcoll/9781788119955/978178
 8119955.00026.xml
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--68
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 88--106
 []\OT1/cmr/m/n/10 Battistoni, A.  (2017, Febru-ary).  Bring-ing in the Work of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--68
+Underfull \hbox (badness 10000) in paragraph at lines 88--106
 \OT1/cmr/m/n/10 Na-ture: From Nat-u-ral Cap-i-tal to Hy-brid La-bor.  \OT1/cmr/
 m/it/10 Po-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--68
+Underfull \hbox (badness 10000) in paragraph at lines 88--106
 \OT1/cmr/m/it/10 lit-i-cal The-ory\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 45\OT1/cmr
 /m/n/10 (1), 5--31.  Re-trieved 2023-12-31, from
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--68
+Underfull \hbox (badness 10000) in paragraph at lines 88--106
 \OT1/cmtt/m/n/10 http://journals.sagepub.com/doi/10.1177/0090591716638389
  []
 
-[2]
-Underfull \hbox (badness 2269) in paragraph at lines 145--164
+
+Underfull \hbox (badness 2269) in paragraph at lines 183--202
 []\OT1/cmr/m/n/10 Reid, W., Mooney, H., Crop-per, A., Capis-trano, D., Car-pen-
 ter, S.,
  []
 
 
-Underfull \hbox (badness 5832) in paragraph at lines 145--164
+Underfull \hbox (badness 5832) in paragraph at lines 183--202
 \OT1/cmr/m/n/10 & Chopra, K.  (2005).  \OT1/cmr/m/it/10 Mil-len-nium Ecosys-tem
  As-sess-ment.
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 145--164
+Underfull \hbox (badness 5147) in paragraph at lines 183--202
 \OT1/cmr/m/it/10 Ecosys-tems and hu-man well-being: syn-the-sis\OT1/cmr/m/n/10 
 .  Re-trieved from
  []
 
 
-Overfull \hbox (36.99692pt too wide) in paragraph at lines 145--164
+Overfull \hbox (36.99692pt too wide) in paragraph at lines 183--202
 \OT1/cmtt/m/n/10 https://www.millenniumassessment.org/documents/document.356.as
 px.pdf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--164
+Underfull \hbox (badness 10000) in paragraph at lines 183--202
 
  []
 
@@ -171,10 +183,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1145 strings out of 478268
- 18328 string characters out of 5846347
+ 1148 strings out of 478268
+ 18415 string characters out of 5846347
  324846 words of memory out of 5000000
- 19405 multiletter control sequences out of 15000+600000
+ 19408 multiletter control sequences out of 15000+600000
  474407 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,8n,38p,1105b,240s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -191,7 +203,7 @@ xlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texl
 ive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texli
 ve/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texliv
 e/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on oyster_reef_recognition.pdf (3 pages, 160605 bytes).
+Output written on oyster_reef_recognition.pdf (3 pages, 161557 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
