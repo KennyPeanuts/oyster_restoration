@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  2 FEB 2024 15:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  5 FEB 2024 13:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -94,13 +94,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Warning: Citation `lawton_laws_1999' undefined on input line 32.
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 39--39
+Underfull \hbox (badness 1342) in paragraph at lines 36--36
 \OT1/cmr/m/n/8 ric tons. The land-ings were low-est in 2004 with only 39 met-ri
 c tons, but since
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 39--39
+Underfull \hbox (badness 1796) in paragraph at lines 36--36
 \OT1/cmr/m/n/8 then have climbed to the high-est recorded land-ings in 2022 of 
 2,811 met-ric tons
  []
@@ -108,7 +108,7 @@ Underfull \hbox (badness 1796) in paragraph at lines 39--39
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./oyster_reef_recognition.bbl
+[2] (./oyster_reef_recognition.bbl
 Underfull \hbox (badness 2384) in paragraph at lines 17--40
 \OT1/cmr/m/n/10 se-quences for Com-mu-nity Or-ga-ni-za-tion, Bio-di-ver-sity, a
 nd Con-ser-
@@ -126,7 +126,7 @@ Overfull \hbox (94.74641pt too wide) in paragraph at lines 54--76
 8119955.00026.xml
  []
 
-[2]
+
 Underfull \hbox (badness 10000) in paragraph at lines 88--106
 []\OT1/cmr/m/n/10 Battistoni, A.  (2017, Febru-ary).  Bring-ing in the Work of
  []
@@ -149,64 +149,87 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--106
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 183--202
+Underfull \hbox (badness 10000) in paragraph at lines 177--195
+[]\OT1/cmr/m/n/10 Ellison, A. M.  (2019, March).  Foun-da-tion Species, Non-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--195
+\OT1/cmr/m/n/10 trophic In-ter-ac-tions, and the Value of Be-ing Com-
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 177--195
+\OT1/cmr/m/n/10 mon.  \OT1/cmr/m/it/10 iScience\OT1/cmr/m/n/10 , \OT1/cmr/m/it/
+10 13\OT1/cmr/m/n/10 , 254--268.  Re-trieved 2024-01-13, from
+ []
+
+
+Overfull \hbox (5.4972pt too wide) in paragraph at lines 177--195
+\OT1/cmtt/m/n/10 https://linkinghub.elsevier.com/retrieve/pii/S2589004219300549
+
+ []
+
+[3]
+Underfull \hbox (badness 2269) in paragraph at lines 240--259
 []\OT1/cmr/m/n/10 Reid, W., Mooney, H., Crop-per, A., Capis-trano, D., Car-pen-
 ter, S.,
  []
 
 
-Underfull \hbox (badness 5832) in paragraph at lines 183--202
+Underfull \hbox (badness 5832) in paragraph at lines 240--259
 \OT1/cmr/m/n/10 & Chopra, K.  (2005).  \OT1/cmr/m/it/10 Mil-len-nium Ecosys-tem
  As-sess-ment.
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 183--202
+Underfull \hbox (badness 5147) in paragraph at lines 240--259
 \OT1/cmr/m/it/10 Ecosys-tems and hu-man well-being: syn-the-sis\OT1/cmr/m/n/10 
 .  Re-trieved from
  []
 
 
-Overfull \hbox (36.99692pt too wide) in paragraph at lines 183--202
+Overfull \hbox (36.99692pt too wide) in paragraph at lines 240--259
 \OT1/cmtt/m/n/10 https://www.millenniumassessment.org/documents/document.356.as
 px.pdf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--202
+Underfull \hbox (badness 10000) in paragraph at lines 240--259
 
  []
 
-) [3] (./oyster_reef_recognition.aux)
+) [4] (./oyster_reef_recognition.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1148 strings out of 478268
- 18415 string characters out of 5846347
+ 1156 strings out of 478268
+ 18586 string characters out of 5846347
  324846 words of memory out of 5000000
- 19408 multiletter control sequences out of 15000+600000
- 474407 words of font info for 45 fonts, out of 8000000 for 9000
+ 19415 multiletter control sequences out of 15000+600000
+ 474715 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,38p,1105b,240s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 34i,8n,38p,2520b,240s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
-></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
-/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/lo
-cal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
-/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
-xlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texl
-ive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texli
-ve/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texliv
-e/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on oyster_reef_recognition.pdf (3 pages, 161557 bytes).
+}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb>
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loc
+al/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texli
+ve/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
+e/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive
+/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on oyster_reef_recognition.pdf (4 pages, 181063 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 83 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

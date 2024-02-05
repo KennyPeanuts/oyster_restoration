@@ -105,6 +105,33 @@ Battistoni, A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Battistoni%
+}{%
+Battistoni%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+battistoni_labor_2021}
+\APACinsertmetastar {%
+battistoni_labor_2021}%
+\begin{APACrefauthors}%
+Battistoni, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{{\APACmonth{02}}}{}.
+\newblock
+\APACrefbtitle {Labor of {Life}? {Theorizing} {Labor} with and against {Nature}
+  .} {Labor of {Life}? {Theorizing} {Labor} with and against {Nature} .}
+\newblock
+\APACaddressPublisher{University of Pennsylvania}{}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.youtube.com/live/NJYamkV0QgA?feature=shared}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Costanza%
 \ \protect \BOthers {.}}{%
 Costanza%
@@ -134,6 +161,36 @@ Costanza, R.%
 \APACjournalVolNumPages{Ecological economics}{25}{1}{3--15}.
 \newblock
 \APACrefnote{Publisher: Elsevier Science Publishing Company, Inc.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ellison%
+}{%
+Ellison%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+ellison_foundation_2019}
+\APACinsertmetastar {%
+ellison_foundation_2019}%
+\begin{APACrefauthors}%
+Ellison, A\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{{\APACmonth{03}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Foundation {Species}, {Non}-trophic {Interactions}, and
+  the {Value} of {Being} {Common}} {Foundation {Species}, {Non}-trophic
+  {Interactions}, and the {Value} of {Being} {Common}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{iScience}{13}{}{254--268}.
+\newblock
+\begin{APACrefURL}
+  [{2024-01-13}]\url{https://linkinghub.elsevier.com/retrieve/pii/S2589004219300549}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.isci.2019.02.020} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

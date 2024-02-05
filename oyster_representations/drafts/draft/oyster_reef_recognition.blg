@@ -12,47 +12,64 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: ../Oyster_env_humanities.bib
+Database file #2: ../Oyster_Lit_Review.bib
+Repeated entry---line 18 of file ../Oyster_Lit_Review.bib
+ : @article{grabowski_economic_2012
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 768 of file ../Oyster_Lit_Review.bib
+ : @article{costanza_value_1998
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1008 of file ../Oyster_Lit_Review.bib
+ : @article{angelini_interactions_2011
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1245 of file ../Oyster_Lit_Review.bib
+ : @book{reid_millennium_2005
+ :                           ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "lawton_laws_1999"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 6 entries,
+You've used 8 entries,
             6951 wiz_defined-function locations,
-            1320 strings with 12699 characters,
-and the built_in function-call counts, 14126 in all, are:
-= -- 1689
-> -- 130
-< -- 679
-+ -- 783
-- -- 14
-* -- 956
-:= -- 2580
-add.period$ -- 24
-call.type$ -- 6
-change.case$ -- 111
+            1336 strings with 13137 characters,
+and the built_in function-call counts, 17623 in all, are:
+= -- 2112
+> -- 150
+< -- 855
++ -- 951
+- -- 18
+* -- 1186
+:= -- 3255
+add.period$ -- 33
+call.type$ -- 8
+change.case$ -- 149
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 447
-empty$ -- 541
-format.name$ -- 255
-if$ -- 2569
+cite$ -- 16
+duplicate$ -- 521
+empty$ -- 694
+format.name$ -- 283
+if$ -- 3226
 int.to.chr$ -- 0
-int.to.str$ -- 18
+int.to.str$ -- 24
 missing$ -- 0
-newline$ -- 179
-num.names$ -- 50
-pop$ -- 206
+newline$ -- 229
+num.names$ -- 66
+pop$ -- 298
 preamble$ -- 1
-purify$ -- 32
+purify$ -- 44
 quote$ -- 0
-skip$ -- 861
+skip$ -- 1061
 stack$ -- 0
-substring$ -- 852
-swap$ -- 245
-text.length$ -- 21
+substring$ -- 1032
+swap$ -- 289
+text.length$ -- 29
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 544
+type$ -- 704
 warning$ -- 0
-while$ -- 93
+while$ -- 107
 width$ -- 0
-write$ -- 227
-(There was 1 warning)
+write$ -- 281
+(There were 4 error messages)
