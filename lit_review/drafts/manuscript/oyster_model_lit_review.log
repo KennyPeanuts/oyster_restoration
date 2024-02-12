@@ -1,0 +1,399 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  12 FEB 2024 11:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**oyster_model_lit_review.tex
+(./oyster_model_lit_review.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count193
+\bibleftmargin=\skip49
+\bibindent=\skip50
+\bibparsep=\skip51
+\bibitemsep=\skip52
+\biblabelsep=\skip53
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box50
+)
+(./oyster_model_lit_review.aux)
+\openout1 = `oyster_model_lit_review.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+\c@maskedRefs=\count195
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 31.
+
+Overfull \hbox (8.11176pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/10 model and the foun-da-tion species model---sometimes in the sam
+e pa-per []Mercaldo-
+ []
+
+
+LaTeX Warning: Citation `vozzo_cooccuring_2019' undefined on input line 47.
+
+
+LaTeX Warning: Citation `vozzo_co-occuring_2019' undefined on input line 49.
+
+[1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Citation `wong_evaluating_2011' undefined on input line 53.
+
+
+LaTeX Warning: Citation `CORAL_EXAMPLE' undefined on input line 53.
+
+[2] [3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 62.
+ [4] (./oyster_model_lit_review.bbl
+Underfull \hbox (badness 2384) in paragraph at lines 17--40
+\OT1/cmr/m/n/10 se-quences for Com-mu-nity Or-ga-ni-za-tion, Bio-di-ver-sity, a
+nd Con-ser-
+ []
+
+
+Overfull \hbox (94.74641pt too wide) in paragraph at lines 17--40
+\OT1/cmtt/m/n/10 https://academic.oup.com/bioscience/article-lookup/doi/10.1525
+/bio.2011.61.10.8
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 149--167
+[]\OT1/cmr/m/n/10 Ellison, A. M.  (2019, March).  Foun-da-tion Species, Non-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--167
+\OT1/cmr/m/n/10 trophic In-ter-ac-tions, and the Value of Be-ing Com-
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 149--167
+\OT1/cmr/m/n/10 mon.  \OT1/cmr/m/it/10 iScience\OT1/cmr/m/n/10 , \OT1/cmr/m/it/
+10 13\OT1/cmr/m/n/10 , 254--268.  Re-trieved 2024-01-13, from
+ []
+
+
+Overfull \hbox (5.4972pt too wide) in paragraph at lines 149--167
+\OT1/cmtt/m/n/10 https://linkinghub.elsevier.com/retrieve/pii/S2589004219300549
+
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 179--205
+[]\OT1/cmr/m/n/10 Ellison, A. M., Bank, M. S., Clin-ton, B. D., Col-burn, E. A.
+, El-
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 179--205
+\OT1/cmr/m/n/10 liott, K., Ford, C. R., ... Web-ster, J. R.  (2005, Novem-
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 179--205
+\OT1/cmr/m/n/10 ber).  Loss of foun-da-tion species: con-se-quences for the str
+uc-
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 179--205
+\OT1/cmr/m/n/10 ture and dy-nam-ics of forested ecosys-tems.  \OT1/cmr/m/it/10 
+Fron-tiers in Ecol-ogy
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 179--205
+\OT1/cmr/m/it/10 and the En-vi-ron-ment\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 3\OT1
+/cmr/m/n/10 (9), 479--486.  Re-trieved 2023-09-29, from
+ []
+
+
+Overfull \hbox (36.99692pt too wide) in paragraph at lines 179--205
+\OT1/cmtt/m/n/10 http://doi.wiley.com/10.1890/1540-9295(2005)003[0479:LOFSCF]2.
+0.CO;2
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 253--273
+[]\OT1/cmr/m/n/10 Gedan, K. B., Kel-logg, L., & Bre-it-burg, D. L.  (2014, July
+).  Ac-
+ []
+
+[6]
+Underfull \hbox (badness 1231) in paragraph at lines 285--309
+[]\OT1/cmr/m/n/10 Grabowski, J. H., Brum-baugh, R. D., Con-rad, R. F., Keeler, 
+A. G.,
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 285--309
+\OT1/cmr/m/n/10 Opaluch, J. J., Pe-ter-son, C. H., ... Smyth, A. R.  (2012, Oc-
+
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 285--309
+\OT1/cmr/m/n/10 to-ber).  Eco-nomic Val-u-a-tion of Ecosys-tem Ser-vices Pro-vi
+ded by
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 285--309
+\OT1/cmr/m/n/10 Oys-ter Reefs.  \OT1/cmr/m/it/10 Bio-Science\OT1/cmr/m/n/10 , \
+OT1/cmr/m/it/10 62\OT1/cmr/m/n/10 (10), 900--909.  Re-trieved 2022-
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 285--309
+\OT1/cmr/m/n/10 04-08, from \OT1/cmtt/m/n/10 https://doi.org/10.1525/bio.2012.6
+2.10.10   \OT1/cmr/m/n/10 doi:
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 321--344
+[]\OT1/cmr/m/n/10 Lamy, T., Koenigs, C., Hol-brook, S. J., Miller, R. J., Stier
+, A. C.,
+ []
+
+
+Underfull \hbox (badness 3872) in paragraph at lines 321--344
+\OT1/cmr/m/n/10 & Reed, D. C.  (2020, May).  Foun-da-tion species pro-mote
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 321--344
+\OT1/cmr/m/n/10 com-mu-nity sta-bil-ity by in-creas-ing di-ver-sity in a gi-ant
+ kelp for-
+ []
+
+
+Underfull \hbox (badness 6125) in paragraph at lines 321--344
+\OT1/cmr/m/n/10 est.  \OT1/cmr/m/it/10 Ecol-ogy\OT1/cmr/m/n/10 , \OT1/cmr/m/it/
+10 101\OT1/cmr/m/n/10 (5), e02987.  Re-trieved 2023-09-29, from
+ []
+
+
+Overfull \hbox (15.9971pt too wide) in paragraph at lines 321--344
+\OT1/cmtt/m/n/10 https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.29
+87
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 356--376
+[]\OT1/cmr/m/n/10 Lenihan, H. S.  (1999, Au-gust).  PHYS-I-CAL{BIOLOGICAL COU-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--376
+\OT1/cmr/m/n/10 PLING ON OYS-TER REEFS: HOW HABI-TAT STRUC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--376
+\OT1/cmr/m/n/10 TURE IN-FLU-ENCES IN-DI-VID-UAL PER-FOR-MANCE.  \OT1/cmr/m/it/1
+0 Eco-
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 356--376
+\OT1/cmr/m/it/10 log-i-cal Mono-graphs\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 69\OT1
+/cmr/m/n/10 (3), 251--275.  Re-trieved 2023-09-29, from
+ []
+
+
+Overfull \hbox (36.99692pt too wide) in paragraph at lines 356--376
+\OT1/cmtt/m/n/10 http://doi.wiley.com/10.1890/0012-9615(1999)069[0251:PBCOOR]2.
+0.CO;2
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 390--410
+[]\OT1/cmr/m/n/10 Lockwood, R., & Mann, R.  (2019, De-cem-ber).  A con-ser-va-t
+ion
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 390--410
+\OT1/cmr/m/n/10 palaeo-bi-o-log-i-cal per-spec-tive on Chesa-peake Bay oys-ters
+.  \OT1/cmr/m/it/10 Philo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--410
+\OT1/cmr/m/it/10 soph-i-cal Trans-ac-tions of the Royal So-ci-ety B: Bi-o-log-i
+-cal Sci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--410
+\OT1/cmr/m/it/10 ences\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 374\OT1/cmr/m/n/10 (17
+88), 20190209.  Re-trieved 2022-04-04, from
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 422--447
+[]\OT1/cmr/m/n/10 Mercaldo-Allen, R., Auster, P. J., Clark, P., Dixon, M. S., E
+s-tela,
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 422--447
+\OT1/cmr/m/n/10 E., Liu, Y., ... Rose, J. M.  (2023, April).  Oys-ter aqua-
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 422--447
+\OT1/cmr/m/n/10 cul-ture cages pro-vide fish habi-tat sim-i-lar to nat-u-ral st
+ruc-ture
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 422--447
+\OT1/cmr/m/n/10 with min-i-mal dif-fer-ences based on farm lo-ca-tion.  \OT1/cm
+r/m/it/10 Fron-tiers
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 422--447
+\OT1/cmr/m/it/10 in Ma-rine Sci-ence\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 10\OT1/c
+mr/m/n/10 , 1058709.  Re-trieved 2023-11-20, from
+ []
+
+
+Overfull \hbox (36.99692pt too wide) in paragraph at lines 422--447
+\OT1/cmtt/m/n/10 https://www.frontiersin.org/articles/10.3389/fmars.2023.105870
+9/full
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 459--485
+\OT1/cmr/m/n/10 on ecosys-tem func-tion-ing and sta-bil-ity in re-sponse to dis
+-tur-bance.
+ []
+
+
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 459--485
+\OT1/cmtt/m/n/10 https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2019.1
+857
+ []
+
+
+Underfull \hbox (badness 6204) in paragraph at lines 497--518
+[]\OT1/cmr/m/n/10 Newell, R. I.  (1988).  Eco-log-i-cal changes in Chesa-peake 
+Bay:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--518
+\OT1/cmr/m/n/10 are they the re-sult of over-har-vest-ing the Amer-i-can oys-te
+r,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--518
+\OT1/cmr/m/n/10 Cras-sostrea vir-ginica.  \OT1/cmr/m/it/10 Un-der-stand-ing the
+ es-tu-ary: ad-vances
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 497--518
+\OT1/cmr/m/it/10 in Chesa-peake Bay re-search\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10
+ 129\OT1/cmr/m/n/10 , 536--546.  Re-trieved from
+ []
+
+
+Overfull \hbox (131.4961pt too wide) in paragraph at lines 497--518
+\OT1/cmtt/m/n/10 http://www.oyster-restoration.org/wp-content/uploads/2012/06/N
+ewell-1988-filtering.pdf
+ []
+
+[7]
+Underfull \hbox (badness 1248) in paragraph at lines 533--556
+\OT1/cmr/m/n/10 mu-ni-ties.  \OT1/cmr/m/it/10 Sci-en-tific Re-ports\OT1/cmr/m/n
+/10 , \OT1/cmr/m/it/10 12\OT1/cmr/m/n/10 (1), 8163.  Re-trieved 2023-09-13,
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 570--590
+\OT1/cmr/m/it/10 Con-ser-va-tion Let-ters\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 15\
+OT1/cmr/m/n/10 (4), e12883.  Re-trieved 2023-09-13, from
+ []
+
+) [8] (./oyster_model_lit_review.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 971 strings out of 478268
+ 15977 string characters out of 5846347
+ 322846 words of memory out of 5000000
+ 19237 multiletter control sequences out of 15000+600000
+ 474055 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,6n,38p,2237b,222s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loc
+al/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loca
+l/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local
+/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on oyster_model_lit_review.pdf (8 pages, 131252 bytes).
+PDF statistics:
+ 72 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

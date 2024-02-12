@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: oyster_model_lit_review.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: Oyster_Lit_Review.bib
+Warning--I didn't find a database entry for "vozzo_cooccuring_2019"
+Warning--I didn't find a database entry for "vozzo_co-occuring_2019"
+Warning--I didn't find a database entry for "wong_evaluating_2011"
+Warning--I didn't find a database entry for "CORAL_EXAMPLE"
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 18 entries,
+            6951 wiz_defined-function locations,
+            1433 strings with 17129 characters,
+and the built_in function-call counts, 44782 in all, are:
+= -- 5300
+> -- 359
+< -- 2460
++ -- 2717
+- -- 38
+* -- 3249
+:= -- 8770
+add.period$ -- 68
+call.type$ -- 18
+change.case$ -- 333
+chr.to.int$ -- 0
+cite$ -- 36
+duplicate$ -- 1277
+empty$ -- 1579
+format.name$ -- 676
+if$ -- 7891
+int.to.chr$ -- 0
+int.to.str$ -- 54
+missing$ -- 0
+newline$ -- 537
+num.names$ -- 144
+pop$ -- 562
+preamble$ -- 1
+purify$ -- 98
+quote$ -- 0
+skip$ -- 2476
+stack$ -- 0
+substring$ -- 2923
+swap$ -- 720
+text.length$ -- 68
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 1504
+warning$ -- 0
+while$ -- 251
+width$ -- 0
+write$ -- 672
+(There were 4 warnings)
