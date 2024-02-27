@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  12 FEB 2024 11:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  27 FEB 2024 11:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -73,27 +73,28 @@ Overfull \hbox (8.11176pt too wide) in paragraph at lines 37--38
 e pa-per []Mercaldo-
  []
 
-
-LaTeX Warning: Citation `vozzo_cooccuring_2019' undefined on input line 47.
-
-
-LaTeX Warning: Citation `vozzo_co-occuring_2019' undefined on input line 49.
-
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Warning: Citation `wong_evaluating_2011' undefined on input line 53.
+LaTeX Warning: Citation `vozzo_cooccuring_2019' undefined on input line 54.
+
+[2]
+
+LaTeX Warning: Citation `vozzo_co-occuring_2019' undefined on input line 56.
 
 
-LaTeX Warning: Citation `CORAL_EXAMPLE' undefined on input line 53.
+LaTeX Warning: Citation `wong_evaluating_2011' undefined on input line 60.
 
-[2] [3]
+
+LaTeX Warning: Citation `CORAL_EXAMPLE' undefined on input line 60.
+
+[3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 62.
+(Font)              <7> on input line 69.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 62.
- [4] (./oyster_model_lit_review.bbl
+(Font)              <5> on input line 69.
+ [5] [6] (./oyster_model_lit_review.bbl
 Underfull \hbox (badness 2384) in paragraph at lines 17--40
 \OT1/cmr/m/n/10 se-quences for Com-mu-nity Or-ga-ni-za-tion, Bio-di-ver-sity, a
 nd Con-ser-
@@ -105,7 +106,7 @@ Overfull \hbox (94.74641pt too wide) in paragraph at lines 17--40
 /bio.2011.61.10.8
  []
 
-[5]
+
 Underfull \hbox (badness 10000) in paragraph at lines 149--167
 []\OT1/cmr/m/n/10 Ellison, A. M.  (2019, March).  Foun-da-tion Species, Non-
  []
@@ -162,13 +163,13 @@ Overfull \hbox (36.99692pt too wide) in paragraph at lines 179--205
 0.CO;2
  []
 
-
+[7]
 Underfull \hbox (badness 1383) in paragraph at lines 253--273
 []\OT1/cmr/m/n/10 Gedan, K. B., Kel-logg, L., & Bre-it-burg, D. L.  (2014, July
 ).  Ac-
  []
 
-[6]
+
 Underfull \hbox (badness 1231) in paragraph at lines 285--309
 []\OT1/cmr/m/n/10 Grabowski, J. H., Brum-baugh, R. D., Con-rad, R. F., Keeler, 
 A. G.,
@@ -326,7 +327,7 @@ Overfull \hbox (21.24706pt too wide) in paragraph at lines 459--485
 857
  []
 
-
+[8]
 Underfull \hbox (badness 6204) in paragraph at lines 497--518
 []\OT1/cmr/m/n/10 Newell, R. I.  (1988).  Eco-log-i-cal changes in Chesa-peake 
 Bay:
@@ -356,7 +357,7 @@ Overfull \hbox (131.4961pt too wide) in paragraph at lines 497--518
 ewell-1988-filtering.pdf
  []
 
-[7]
+
 Underfull \hbox (badness 1248) in paragraph at lines 533--556
 \OT1/cmr/m/n/10 mu-ni-ties.  \OT1/cmr/m/it/10 Sci-en-tific Re-ports\OT1/cmr/m/n
 /10 , \OT1/cmr/m/it/10 12\OT1/cmr/m/n/10 (1), 8163.  Re-trieved 2023-09-13,
@@ -368,16 +369,16 @@ Underfull \hbox (badness 1629) in paragraph at lines 570--590
 OT1/cmr/m/n/10 (4), e12883.  Re-trieved 2023-09-13, from
  []
 
-) [8] (./oyster_model_lit_review.aux)
+) [9] (./oyster_model_lit_review.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 971 strings out of 478268
- 15977 string characters out of 5846347
+ 972 strings out of 478268
+ 15994 string characters out of 5846347
  322846 words of memory out of 5000000
- 19237 multiletter control sequences out of 15000+600000
+ 19238 multiletter control sequences out of 15000+600000
  474055 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,6n,38p,2237b,222s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -390,10 +391,10 @@ local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loc
 al/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loca
 l/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local
 /texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on oyster_model_lit_review.pdf (8 pages, 131252 bytes).
+Output written on oyster_model_lit_review.pdf (9 pages, 134428 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
