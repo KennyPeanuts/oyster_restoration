@@ -1,0 +1,99 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: oyster_model_lit_rev_journal.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: Oyster_Lit_Review.bib
+Database file #2: foundation_species.bib
+Repeated entry---line 2 of file foundation_species.bib
+ : @article{lamy_foundation_2020
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 112 of file foundation_species.bib
+ : @article{fields_foundation_2022
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 168 of file foundation_species.bib
+ : @article{gedan_accounting_2014
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 192 of file foundation_species.bib
+ : @article{vozzo_co-occurring_2019
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 208 of file foundation_species.bib
+ : @inproceedings{dayton_toward_1972
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 219 of file foundation_species.bib
+ : @article{angelini_interactions_2011
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 237 of file foundation_species.bib
+ : @article{ellison_foundation_2019
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 254 of file foundation_species.bib
+ : @article{narwani_interactive_2019
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 660 of file foundation_species.bib
+ : @article{ellison_loss_2005
+ :                           ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Payne_1967"
+Warning--I didn't find a database entry for "vozzo_cooccuring_2019"
+Warning--I didn't find a database entry for "vozzo_co-occuring_2019"
+Warning--I didn't find a database entry for "wong_evaluating_2011"
+Warning--I didn't find a database entry for "CORAL_EXAMPLE"
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 19 entries,
+            6951 wiz_defined-function locations,
+            1443 strings with 17550 characters,
+and the built_in function-call counts, 47772 in all, are:
+= -- 5669
+> -- 386
+< -- 2610
++ -- 2926
+- -- 40
+* -- 3448
+:= -- 9305
+add.period$ -- 71
+call.type$ -- 19
+change.case$ -- 352
+chr.to.int$ -- 0
+cite$ -- 38
+duplicate$ -- 1392
+empty$ -- 1674
+format.name$ -- 734
+if$ -- 8421
+int.to.chr$ -- 0
+int.to.str$ -- 57
+missing$ -- 0
+newline$ -- 567
+num.names$ -- 152
+pop$ -- 602
+preamble$ -- 1
+purify$ -- 104
+quote$ -- 0
+skip$ -- 2635
+stack$ -- 0
+substring$ -- 3158
+swap$ -- 770
+text.length$ -- 72
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 1584
+warning$ -- 0
+while$ -- 272
+width$ -- 0
+write$ -- 712
+(There were 9 error messages)
