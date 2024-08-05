@@ -1,5 +1,7 @@
 # oyster_restoration
-This repository contains the files associated with the oyster restoration project in the Fortino Lab at Longwood University.
+This repository contains the backup files associated with the oyster restoration project in the Fortino Lab at Longwood University.
+
+The files in this repo are no longer being updated after 2024-08-05
 
 ## License
 
